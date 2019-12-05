@@ -1,0 +1,21 @@
+*{
+    margin: auto;
+}
+h1{
+    color: red;
+    text-align: center;
+}
+h3{
+    color: red;
+    text-align: center;
+
+}
+.time{
+    height: 100px;
+    width: 170px;
+    text-align: center;
+    background-color: yellow;
+    border: double 5px red;
+    margin-top: 10px;
+    padding: auto;
+}
